@@ -1,1 +1,1 @@
-# Lin-Alg-Lab-ACT-1
+# Lin-Alg-Lab-ACTIVITIES
